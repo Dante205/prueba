@@ -11,8 +11,5 @@ Este es un mensaje editado completamente desde GitHub
 
 ## Hola mundo
 
-<<<<<<< HEAD
 ## Estos cambios son nuevos desde mi repositorio local
-=======
 ## Estos cambios son nuevos desde GitHub
->>>>>>> 5c2eed68256102a9f55fd1fb23267e197a3f26f6
