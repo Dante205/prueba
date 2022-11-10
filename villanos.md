@@ -7,3 +7,5 @@
 4. Doomsday
 5. Deadshot
 6. Harly Quiin
+7. THANOS
+8. LOKI
