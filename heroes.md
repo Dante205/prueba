@@ -7,3 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Verde!!
+* IRONMAN
+* HULK
+* SPIDERMAR
